@@ -17,5 +17,5 @@ PRIMEIRA CONSULTA: Pegar a diferença com base na primeira consulta
 ![image](https://github.com/Felipedjn/time-between-appointments/assets/114688883/6dd950f7-2c36-439c-87eb-e0bff971638d)
 
 ## Resposta:
-![image](https://github.com/Felipedjn/time-between-appointments/assets/114688883/3ed7020a-d1cc-44c6-a47b-1d5b7b550282)
 ![image](https://github.com/Felipedjn/time-between-appointments/assets/114688883/6b9e3dbd-a3a8-436e-972c-ae6c15f592c3)
+![image](https://github.com/Felipedjn/time-between-appointments/assets/114688883/3ed7020a-d1cc-44c6-a47b-1d5b7b550282)
