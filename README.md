@@ -6,8 +6,11 @@ Script pra pegar o tempo entre uma consulta e outra
 
 # Opções:
 IP ON: Levar em consideração o IP
+
 IP OFF: Não levar em consideração o IP
+
 ULTIMA CONSULTA: Pegar a diferença com base na ultima consulta
+
 PRIMEIRA CONSULTA: Pegar a diferença com base na primeira consulta
 
 ## Como a planilha deve estar:
